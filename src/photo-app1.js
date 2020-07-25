@@ -11,5 +11,5 @@ ReactDom.render(
     </div>
 
     <div>
-        <h1 className = "Profile Pic 1"></h1>
+        <h1 className = "name1"></h1>
     </div>
