@@ -9,3 +9,7 @@ ReactDom.render(
     <div>
       <img src = {img}/>
     </div>
+
+    <div>
+        <h1 className = "Profile Pic 1"></h1>
+    </div>
