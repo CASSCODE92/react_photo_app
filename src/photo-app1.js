@@ -13,3 +13,42 @@ ReactDom.render(
     <div>
         <h1 className = "name1"></h1>
     </div>
+
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+
