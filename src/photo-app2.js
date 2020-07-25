@@ -13,3 +13,40 @@ ReactDom.render(
 <div>
 <h1 className = "name2"></h1>
 </div>
+
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+<div>
+    <img src="rocks.jpg">
+</div>
+
+<div>
+    <img src="rocks.jpg">
+</div>
