@@ -16,39 +16,24 @@ ReactDom.render(
 
 
 <div>
-    <img src="rocks.jpg">
+    <img src="">
 </div>
 
 <div>
-    <img src="rocks.jpg">
+    <img src="">
 </div>
 
 <div>
-    <img src="rocks.jpg">
+    <img src="">
 </div>
 
 <div>
-    <img src="rocks.jpg">
+    <img src="">
 </div>
 
 <div>
-    <img src="rocks.jpg">
+    <img src="">
 </div>
 
-<div>
-    <img src="rocks.jpg">
-</div>
-
-<div>
-    <img src="rocks.jpg">
-</div>
-
-<div>
-    <img src="rocks.jpg">
-</div>
-
-<div>
-    <img src="rocks.jpg">
-</div>
 
 
