@@ -30,7 +30,7 @@ class PhotoApp3{
 
     <img src="shark6.jpg">
 
-    <img src="">
+    <img src="shark7.jpg">
 
 </div>
 </div>
