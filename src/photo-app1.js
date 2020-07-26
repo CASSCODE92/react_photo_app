@@ -12,6 +12,7 @@ render(){
     const img = "";
 
 return(
+    <div>
     <li><a href = "nav-bar.js">NAVBAR</a></li>
 
     <div>
@@ -24,8 +25,6 @@ return(
 
 <div className= "images">
     <img src="">
-        
-    <img src="">
 
     <img src="">
 
@@ -34,6 +33,10 @@ return(
     <img src="">
 
     <img src="">
+
+    <img src="">
+
+</div>
 
 </div>
 
