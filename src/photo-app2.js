@@ -21,7 +21,7 @@ class PhotoApp2{
         </div>
     
     <div className= "images">
-    <img src="">
+    <img src="mayo2.jpg">
         
     <img src="">
 
