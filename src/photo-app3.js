@@ -18,25 +18,20 @@ class PhotoApp3{
             <h1 className = "name3"></h1>
         </div>
     
-    <div>
-        <img src="">
-    </div>
-    
-    <div>
-        <img src="">
-    </div>
-    
-    <div>
-        <img src="">
-    </div>
-    
-    <div>
-        <img src="">
-    </div>
-    
-    <div>
-        <img src="">
-    </div>
+    <div className= "images">
+    <img src="">
+        
+    <img src="">
+
+    <img src="">
+
+    <img src="">
+
+    <img src="">
+
+    <img src="">
+
+</div>
     
     );
     }
