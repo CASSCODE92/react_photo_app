@@ -5,7 +5,7 @@ import './index.css';
 class PhotoApp3{
 
     render(){
-        const img = "";
+        const img = "shark1";
     
     return(
         <div>
