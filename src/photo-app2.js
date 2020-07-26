@@ -2,7 +2,7 @@ import React from "react";
 import ReactDom from "react-dom";
 import './index.css';
 
-class PhotoApp1 extends React.Component{
+class PhotoApp2 extends React.Component{
 
     render(){
         const img = "";
@@ -15,7 +15,7 @@ class PhotoApp1 extends React.Component{
         </div>
     
         <div>
-            <h1 className = "name1"></h1>
+            <h1 className = "name2"></h1>
         </div>
     
     <div>
@@ -42,6 +42,6 @@ class PhotoApp1 extends React.Component{
     }
     }
     
-    ReactDOM.render(<PhotoApp1 />, document.getElementById("root"));
+    ReactDOM.render(<PhotoApp2 />, document.getElementById("root"));
     
     
