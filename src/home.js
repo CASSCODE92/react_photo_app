@@ -6,6 +6,7 @@ import './index.css';
 ReactDom.render(
 
     <h1>-^React Photo App^-</h1>,
+    <h1>Git Test</h1>
     document.getElementById("root")
     
 )
