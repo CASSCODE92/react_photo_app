@@ -4,11 +4,11 @@ import './index.css';
 
 
 ReactDom.render(
-<ul className = "Navbar">
-            <li><a href = "home.js">HOME</a></li>
+<ul className = "navBar">
+            <li className = "navList"><a href = "home.js">HOME</a></li>
             <li><a href = "profiles.js">PROFILES</a></li>
             <li><a href = "bookmarks.js">BOOKMARKS</a></li>
-            <li><a href = "log_in.js">LOG_IN</a></li>
+            <li><a href = "log_in.js">LOGIN</a></li>
 </ul>,
 
 document.getElementById("root")
