@@ -24,22 +24,17 @@ return(
 
 <div className= "images">
     <img src="">
-</div>
 
-<div>
     <img src="">
-</div>
 
-<div>
     <img src="">
-</div>
 
-<div>
     <img src="">
-</div>
 
-<div>
     <img src="">
+
+    <img src="">
+        
 </div>
 
 );
