@@ -20,7 +20,7 @@ return(
     </div>
 
     <div>
-        <h1 className = "name1"></h1>
+        <h1 className = "name1">Doge</h1>
     </div>
 
 <div className= "images">
