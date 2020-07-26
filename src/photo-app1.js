@@ -9,7 +9,7 @@ import './index.css';
 class PhotoApp1{
 
 render(){
-    const img = "";
+    const img = "doge1.jpg";
 
 return(
     <div>
