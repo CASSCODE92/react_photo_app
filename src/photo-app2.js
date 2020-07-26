@@ -25,7 +25,7 @@ class PhotoApp2{
         
     <img src="mayo3.jpg">
 
-    <img src="">
+    <img src="mayo4.jpg">
 
     <img src="">
 
