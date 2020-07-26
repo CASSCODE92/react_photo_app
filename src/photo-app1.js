@@ -34,7 +34,7 @@ return(
 
     <img src="doge6.jpg">
 
-    <img src="">
+    <img src="doge7.jpg">
 
 </div>
 
