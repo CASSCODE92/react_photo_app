@@ -8,7 +8,7 @@ ReactDom.render(
             <li className = "navList"><a href = "home.js">HOME</a></li>
             <li className = "navList"><a href = "profiles.js">PROFILES</a></li>
             <li className = "navList"><a href = "bookmarks.js">BOOKMARKS</a></li>
-            <li className = "navList"><a href = "log_in.js">LOGIN</a></li>
+            <li ><a href = "log_in.js">LOGIN</a></li>
 </ul>,
 
 document.getElementById("root")
