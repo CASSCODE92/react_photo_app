@@ -26,7 +26,7 @@ return(
 <div className= "images">
     <img src="doge2.jpg">
 
-    <img src="">
+    <img src="doge3.jpg">
 
     <img src="">
 
