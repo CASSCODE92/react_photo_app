@@ -5,7 +5,7 @@ import './index.css';
 class PhotoApp2{
 
     render(){
-        const img = "";
+        const img = "mayo1.jpg";
     
     return(
 
