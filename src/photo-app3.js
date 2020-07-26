@@ -16,7 +16,7 @@ class PhotoApp3{
         </div>
     
         <div>
-            <h1 className = "name3"></h1>
+            <h1 className = "name3">Shark Puppet</h1>
         </div>
     
     <div className= "images">
