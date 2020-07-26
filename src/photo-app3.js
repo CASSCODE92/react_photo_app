@@ -8,6 +8,7 @@ class PhotoApp3{
         const img = "";
     
     return(
+        <div>
         <li><a href = "nav-bar.js">NAVBAR</a></li>
     
         <div>
@@ -31,6 +32,7 @@ class PhotoApp3{
 
     <img src="">
 
+</div>
 </div>
     
     );
