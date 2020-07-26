@@ -17,7 +17,7 @@ class PhotoApp2{
         </div>
     
         <div>
-            <h1 className = "name2"></h1>
+            <h1 className = "name2">Lil' Mayo</h1>
         </div>
     
     <div className= "images">
