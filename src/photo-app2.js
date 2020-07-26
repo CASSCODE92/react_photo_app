@@ -31,7 +31,7 @@ class PhotoApp2{
 
     <img src="mayo6.jpg">
 
-    <img src="">
+    <img src="mayo7.jpg">
 
 </div>
 </div>
