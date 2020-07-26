@@ -6,7 +6,7 @@ import './index.css';
 
 
 
-class PhotoApp1 extends React.Component{
+class PhotoApp1{
 
 render(){
     const img = "";
@@ -22,7 +22,7 @@ return(
         <h1 className = "name1"></h1>
     </div>
 
-<div>
+<div className= "images">
     <img src="">
 </div>
 

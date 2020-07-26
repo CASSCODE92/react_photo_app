@@ -2,7 +2,7 @@ import React from "react";
 import ReactDom from "react-dom";
 import './index.css';
 
-class PhotoApp3 extends React.Component{
+class PhotoApp3{
 
     render(){
         const img = "";
