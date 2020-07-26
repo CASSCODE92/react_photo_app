@@ -23,7 +23,7 @@ class PhotoApp2{
     <div className= "images">
     <img src="mayo2.jpg">
         
-    <img src="">
+    <img src="mayo3.jpg">
 
     <img src="">
 
