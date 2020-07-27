@@ -25,6 +25,7 @@ return(
     </div>
 
     <div>
+        {/* profile pic sourced */}
     <img src = {img}></img>
     </div>
 
