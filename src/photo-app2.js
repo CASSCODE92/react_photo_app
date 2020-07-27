@@ -2,7 +2,7 @@ import React from "react";
 import ReactDom from "react-dom";
 import './index.css';
 
-class PhotoApp2{
+const= PhotoApp2{
 
     render(){
         const img = "mayo1.jpg";
@@ -33,7 +33,7 @@ class PhotoApp2{
 
     <img src="mayo7.jpg">
 
-</div>
+
 </div>
     );
     }

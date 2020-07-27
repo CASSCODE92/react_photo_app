@@ -1,10 +1,5 @@
-/* Responsive layout - makes a two column-layout instead of four columns
-@media screen and (max-width: 800px) {
-    .column {
-      flex: 50%;
-      max-width: 50%;
-    } */
-    /* w3schools */
+
+
 
 .navBar {
     grid-template-columns: auto auto auto;
@@ -12,10 +7,30 @@
 }
 
 .navList {
-    background-color: rgba(255, 255, 255, 0.8);
-  border: 1px solid rgba(0, 0, 0, 0.8);
+    background-color: black;
+  border: 5px solid whitesmoke;
   padding: 10px;
   font-size: 20px;
   text-align: center;
+  text-decoration-color: lime;
+  font-family: 'Courier New', Courier, monospace;
 
+}
+/* 
+https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp */
+
+@media screen and (max-width: 800px) {
+.images {
+  flex: 50%;
+    max-width: 50%;
+  }
+
+}
+
+body {
+  background-color: black;
+}
+
+.img {
+  border: 2px solid whitesmoke 
 }

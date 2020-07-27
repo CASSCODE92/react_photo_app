@@ -13,6 +13,7 @@ import './profiles';
 import './serviceWorker';
 import './setupTests';
 import './App.test';
+import './styles.css'
 
 
 

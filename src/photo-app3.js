@@ -32,7 +32,7 @@ class PhotoApp3{
 
     <img src="shark7.jpg">
 
-</div>
+<div>
 </div>
     
     );
