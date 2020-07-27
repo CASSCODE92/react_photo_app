@@ -1,5 +1,5 @@
 
-
+/* nav bar in single column grid */
 .navBar {
     grid-template-columns: auto auto auto;
     padding: 4px;
