@@ -10,6 +10,8 @@ import './bookmark.js';
 class PhotoApp1{
 
 render(){
+
+    // profile pic and bookmarks set as constants
     const img = "doge1.jpg";
 
     const bkmk = document.createElement('bkmk');
