@@ -32,6 +32,7 @@ body {
   background-color: black;
 }
 
+/* border around images on profile pages */
 .img {
   border: 2px solid black; 
 }
