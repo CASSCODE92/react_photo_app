@@ -2,7 +2,7 @@ import React from "react";
 import ReactDom from "react-dom";
 import './styles.css';
 
-
+// navigation bar set as a list
 ReactDom.render(
 <ul className = "navBar">
             <li className = "navList"><a href = "home.js">HOME</a></li>
