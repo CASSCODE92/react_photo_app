@@ -1,6 +1,5 @@
 
 
-
 .navBar {
     grid-template-columns: auto auto auto;
     padding: 4px;
@@ -8,11 +7,11 @@
 
 .navList {
     background-color: black;
-  border: 5px solid whitesmoke;
-  padding: 10px;
+  border: 5px solid black;
+  padding: 10px black;
   font-size: 20px;
   text-align: center;
-  text-decoration-color: lime;
+  text-decoration-color: rgb(10, 227, 10);
   font-family: 'Courier New', Courier, monospace;
 
 }
@@ -32,5 +31,19 @@ body {
 }
 
 .img {
-  border: 2px solid whitesmoke 
+  border: 2px solid black; 
+}
+
+.name1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: yellow;
+  text-decoration: underline;
+  text-decoration-color: blue;
+  float: right;
+  position: relative;
+  right: 30px
+
+  
+
+  
 }

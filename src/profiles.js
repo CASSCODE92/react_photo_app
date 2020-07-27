@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDom from "react-dom";
-import './index.css';
+import './styles.css';
 import './photo-app1.js'; 
 import './photo-app2.js';
 import './photo-app3.js';

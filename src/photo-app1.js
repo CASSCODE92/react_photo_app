@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDom, { render } from "react-dom";
-import './index.css';
+import './styles.css';
+import './bookmark.js';
 
 
 
@@ -11,12 +12,18 @@ class PhotoApp1{
 render(){
     const img = "doge1.jpg";
 
+    const bkmk = document.createElement('bkmk');
+        bkmk.src= './bookmark.js';
+        document.body.appendChild(bkmk);
 return(
     <div>
-    <li><a href = "nav-bar.js">NAVBAR</a></li>
 
     <div>
-    <img src = {img}/>
+    <li><a href = "nav-bar.js">NAVBAR</a></li>
+    </div>
+
+    <div>
+    <img src = {img}></img>
     </div>
 
     <div>
@@ -24,26 +31,28 @@ return(
     </div>
 
 <div className= "images">
-    <img src="doge2.jpg">
 
-    <img src="doge3.jpg">
+    <img src="doge2.jpg"><button onclick={bkmk}></button></img>
 
-    <img src="doge4.jpg">
+    <img src="doge3.jpg"><button onclick={bkmk}></button></img>
 
-    <img src="doge5.jpg">
+    <img src="doge4.jpg"><button onclick={bkmk}></button></img>
 
-    <img src="doge6.jpg">
+    <img src="doge5.jpg"><button onclick={bkmk}></button></img>
 
-    <img src="doge7.jpg">
+    <img src="doge6.jpg"><button onclick={bkmk}></button></img>
+
+    <img src="doge7.jpg"><button onclick={bkmk}></button></img>
 
 </div>
-
 </div>
+
+
 
 );
 }
 }
 
-ReactDOM.render(<PhotoApp1 />, document.getElementById("root"));
+ReactDOM.render(<PhotoApp1/>, document.getElementById("root"));
 
 
