@@ -6,7 +6,7 @@ import './bookmark.js';
 
 
 
-
+// first profile page"
 class PhotoApp1{
 
 render(){
