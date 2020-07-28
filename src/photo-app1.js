@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDom, { render } from "react-dom";
+import ReactDOM, { render } from "react-dom";
 import './styles.css';
 import './bookmark.js';
 
@@ -15,7 +15,7 @@ render(){
     const img = "doge1.jpg";
 
     const bkmk = document.createElement('bkmk');
-        bkmk.src= './bookmark.js';
+        bkmk.src= './photo-app1.js';
         document.body.appendChild(bkmk);
 return(
     <div>

@@ -4,6 +4,7 @@ import './styles.css';
 import './photo-app1.js'; 
 import './photo-app2.js';
 import './photo-app3.js';
+import './bookmark.js';
 
 ReactDom.render(
     <ul className = "profiles">
